@@ -1,0 +1,6 @@
+framework module Pods_xCodeMaps {
+  umbrella header "Pods-xCodeMaps-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,85 @@
+{
+    "meta":{
+        "code":200,
+        "requestId":"asldjaksbhd"
+    },
+    "response":{
+        "venues":[
+            {
+                "id":"4234234234jkhjk",
+                "name":"Clock Tower",
+                "description":"Sighisoara most iconic building is The Clock Tower",
+                "contact":{
+                    "phone":"324534",
+                    "gmail":"kjgfehjfhkehg"
+                },
+                "socialMedia":{
+                    "twitter":"fdgdgsdf",
+                    "facebook":"csfssfza"
+                },
+                "location":{
+                    "address":"Strada Turnului",
+                    "lat":"46.2259831",
+                    "lng":"24.7940706"
+                },
+            },
+            
+            {
+                    "id":"4234234234jkhjk",
+                    "name":"Clock Tower2",
+                    "description":"2ighisoara most iconic building is The Clock Tower",
+                    "contact":{
+                        "phone":"2371273821",
+                        "gmail":"hdbcskdv"
+                    },
+                    "socialMedia":{
+                        "twitter":"sjffds",
+                        "facebook":"csfssmdfndssfza"
+                    },
+                    "location":{
+                        "address":"Sdhjgfjhs",
+                        "lat":"46.2174848",
+                        "lng":"24.7939847"
+                    }
+            },
+            
+            {
+                    "id":"4234234234jkhjk",
+                    "name":"Clock Tower",
+                    "description":"Sighisoara most iconic building is The Clock Tower",
+                    "contact":{
+                        "phone":"324534",
+                        "gmail":"kjgfehjfhkehg"
+                    },
+                    "socialMedia":{
+                        "twitter":"fdgdgsdf",
+                        "facebook":"csfssfza"
+                    },
+                    "location":{
+                        "address":"Strada Turnului",
+                        "lat":"46.2193518",
+                        "lng":"24.7901287"
+                    }
+                },
+                    
+                {
+                    "id":"4234234234jkhjk",
+                    "name":"Clock Tower",
+                    "description":"Sighisoara most iconic building is The Clock Tower",
+                    "contact":{
+                        "phone":"324534",
+                        "gmail":"kjgfehjfhkehg"
+                    },
+                    "socialMedia":{
+                        "twitter":"fdgdgsdf",
+                        "facebook":"csfssfza"
+                    },
+                    "location":{
+                        "address":"Strada Turnului",
+                        "lat":"46.2186151",
+                        "lng":"24.7879669"
+                    }
+                }
+        ]
+    }
+}
